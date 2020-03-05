@@ -9,3 +9,7 @@
 * Apple
 * Banana
 * orange
+### ordered list
+ * Brinjal
+ * cabbage
+ * drum strick
