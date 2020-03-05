@@ -22,7 +22,7 @@
 [GitHub](http://github.com
 
 ### BlockQoutes
-The  Le ge nd once said
+The  Legend once said
 > "Life is like a lemon under the tractor.
 
 ### BACKSLASH ESCAPES
